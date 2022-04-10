@@ -1,0 +1,23 @@
+
+*{
+    font-family: 'Open Sans', sans-serif;
+
+}
+p {
+    margin-bottom: 0;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    text-align: center;
+}

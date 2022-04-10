@@ -1,0 +1,207 @@
+.topo{
+    background-color: #00123C;
+    height: 40px;
+    padding-top: 9px;
+}
+
+.topo2{
+    display: flex;
+    
+}
+
+.text_topo{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    font-weight: 600;
+}
+
+.navbar-tj{
+    background-color: #7E1819;
+    height: auto;
+    align-items: center;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.texto{
+    text-align: justify;
+    padding-right: 50px;
+    padding-top: 45px;
+}
+
+.logo-tjmg{
+    width: 280px;
+}
+
+.introducao{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: auto;
+    background-color: #white;
+    
+}
+
+.relatorio{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #e4dcdc;
+}
+.imagem-introducao{
+    width: 500px;
+    padding-left: 50px;
+}
+
+.intro{
+    display: flex;
+}
+
+.footer{
+    background-color: #00123C;
+    height: auto;
+}
+
+.footer2{
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+    display: flex;
+}
+
+.endereco{
+    color: #e4dcdc;
+}
+
+
+.text-endeco{
+    color: #e4dcdc;
+}
+
+.copy{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+}
+.menu-footer{
+
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    font-size: 12px;
+}
+
+.menu-f{
+    color: white;
+}
+
+.btn-tj{
+    margin-top: 30px;
+    float: right;
+    margin-right: 50px;
+
+}
+
+.photo-gallery {
+    color:#313437;
+    background-color:#fff;
+  }
+  
+ 
+  /*MOBILE */
+
+  @media (max-width:767px) {
+    .photo-gallery h2 {
+      margin-bottom:25px;
+      padding-top:25px;
+      font-size:24px;
+    }
+
+    .intro{
+        display: block;
+    }
+    
+    .imagem-introducao{
+        width: 500px;
+        padding-left: 0px;
+        padding-top: 30px;
+    }
+
+    .texto{
+        text-align: justify;
+        padding-right: 0px;
+        padding-top: 15px;
+    }
+
+       
+    .menu-footer{
+
+        display: block;
+        float: right;
+        margin-right: 10px;        
+    }
+
+    .item{
+        width: 150px;
+    }
+    
+  
+    .maior{
+        width: 290px;
+    }
+    
+  }
+  
+  .photo-gallery .intro {
+    font-size:16px;
+    max-width:500px;
+    margin:0 auto 40px;
+  }
+
+ 
+  
+  
+
+
+
+  
+/*redes sociais */
+
+  .rede{
+    margin-top: 10px;
+	float:left;
+	margin-left: 30px;
+	transition: all .4s ease-out;
+	border-radius: 50%;
+}
+
+
+.rede:hover{
+	cursor: pointer;
+	box-shadow: 4px 30px 16px 0px rgba(50, 50, 50, 0.45);
+	transform: translateY(-10px);
+}
+
+
+.icone2:hover{
+	cursor: pointer;
+	box-shadow: 4px 30px 16px 0px rgba(50, 50, 50, 0.45);
+	transform: translateY(-10px);
+}
+
+img.icone{
+	margin:0px auto;
+	width: 25px;
+}
+
+.icone2{
+    margin-right: 20px;
+	width: 20px;
+    transition: all .4s ease-out;
+
+}
+  
+  

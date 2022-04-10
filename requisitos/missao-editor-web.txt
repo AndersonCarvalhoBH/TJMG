@@ -1,0 +1,14 @@
+Missão: Projeto de Homepage
+
+A partir do wireframe anexado faça a construção da homepage de um hotsite e
+siga a estrutura e organização das informações. 
+
+Codifique em html, css e o javascript. Use quaisquer bibliotecas para a homepage, sempre visando a reponsividade e acessibilidade da home. Não é necessário preocupar-se com a identidade visual. 
+
+O objetivo é entendermos como você irá montar a tags e a lógica no seu javascript (botões, slide, formulário, etc)!
+
+Caso tenha novidade além do layout proposto informe o motivo da adaptação no README do projeto.
+
+Após a construção da página favor hospedar no GitHub pages ou em outro respositório de sua preferência. (Saiba como hospedar: https://www.letscode.com.br/blog/como-hospedar-seu-site-pelo-github-pages)
+
+Envie o link do projeto para a regina.clark@tjmg.jus.br e aguarde nosso retorno. Boa sorte! :)
