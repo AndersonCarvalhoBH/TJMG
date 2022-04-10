@@ -1,0 +1,71 @@
+/*MOBILE */
+
+@media (max-width:767px) {
+    .photo-gallery h2 {
+      margin-bottom:25px;
+      padding-top:25px;
+      font-size:24px;
+    }
+    .menu-footer2{
+
+        display: flex;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+        font-size: 12px;
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .social{
+        padding-top: 40px;
+    }
+
+    .intro{
+        display: block;
+    }
+    
+    .imagem-introducao{
+        width: 500px;
+        margin-top: 20px;
+    }
+
+    .texto{
+        text-align: justify;
+        padding-right: 0px;
+        padding-top: 15px;
+    }
+
+       
+    .menu-footer{
+
+        display: flex;
+        margin-right: 10px;   
+        margin-top: 50px;  
+        display: none;   
+    }
+    
+
+    .item{
+        width: 150px;
+    }
+    
+  
+    .maior{
+        width: 290px;
+        margin-top: 120px;
+    }
+    
+  }
+  
+  .photo-gallery .intro {
+    font-size:16px;
+    max-width:500px;
+    margin:0 auto 40px;
+  }
+
+ 
+
+ 
+  
+  
