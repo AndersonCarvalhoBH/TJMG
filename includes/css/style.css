@@ -149,7 +149,10 @@
 	box-shadow: 4px 30px 16px 0px rgba(50, 50, 50, 0.45);
 	transform: translateY(-10px);
 }
-
+.tel{
+    font-size: 30px;
+    font-weight: 800;
+}
 img.icone{
 	margin:0px auto;
 	width: 20px;
