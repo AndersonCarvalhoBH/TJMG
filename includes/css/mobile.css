@@ -1,6 +1,7 @@
 /*MOBILE */
 
 @media (max-width:767px) {
+
     .photo-gallery h2 {
       margin-bottom:25px;
       padding-top:25px;
@@ -56,7 +57,6 @@
         margin-top: 120px;
     }
     
-  }
   
   .photo-gallery .intro {
     font-size:16px;
@@ -64,6 +64,11 @@
     margin:0 auto 40px;
   }
 
+  .rel{
+    margin-top: 30px;
+}
+
+}
  
 
  
