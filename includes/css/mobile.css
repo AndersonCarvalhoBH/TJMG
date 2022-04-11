@@ -53,11 +53,14 @@
     
   
     .maior{
-        width: 490px;
+        width: 100%;
         margin-top: 120px;
         margin-bottom: 50px;
     }
     
+    .menor{
+        width: 50%;
+    }
   
   .photo-gallery .intro {
     font-size:16px;
